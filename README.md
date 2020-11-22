@@ -1,2 +1,2 @@
 # Saga
-Billing and stock control program
+Commerce gestion
